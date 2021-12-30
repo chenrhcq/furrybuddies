@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How much your doggie need to eat?
+title: How much your doggie needs to eat?
 subtitle: Calculate the weight of food by RER model
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
