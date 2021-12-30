@@ -2,10 +2,11 @@
 layout: post
 title: How much your doggie needs to eat?
 subtitle: Calculate the weight of food by RER model
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: false
+thumbnail-img: /assets/img/thumbnail_web_calculator.png
+share-img: /assets/img/thumbnail_web_calculator.png
 tags: [RER, DogFeeding, Doggie]
+comments: true
 ---
 
 How much to feed your furry buddy based on RER (Resting Energy Requirement) model. By calculating the calories your little buddy needs everyday to determine how much food is appropriate. 
