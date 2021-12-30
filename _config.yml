@@ -14,7 +14,7 @@ author: Bonbon's Moms
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+#  About Me: "aboutme"
   Resources:
     - Dog Food Calculator: "https://furrybuddies.github.io/woof/2021-12-29-how-much-your-doggie-needs-to-eat/"
 
